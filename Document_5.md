@@ -2,7 +2,8 @@
 Data Structures
 The program uses an adjacency matrix to represent the undirected graph:
 
-# Adjacency Matrix - 2D array where matrix[i][j] = 1 indicates an edge between vertices i and j, else 0. Symmetric since graph[i][j] == graph[j][i].
+# Adjacency Matrix
+ 2D array where matrix[i][j] = 1 indicates an edge between vertices i and j, else 0. Symmetric since graph[i][j] == graph[j][i].
 
 Queue Structure - For BFS, includes:
 
